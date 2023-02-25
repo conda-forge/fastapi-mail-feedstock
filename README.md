@@ -1,11 +1,11 @@
-About fastapi-mail
-==================
+About fastapi-mail-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fastapi-mail-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sabuhish/fastapi-mail
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fastapi-mail-feedstock/blob/main/LICENSE.txt)
 
 Summary: Simple lightweight mail library for FastApi
 
