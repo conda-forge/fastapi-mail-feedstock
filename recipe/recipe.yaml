@@ -1,6 +1,5 @@
 context:
   version: 1.4.2
-  python_min: "3.8.1"
 
 package:
   name: fastapi-mail
