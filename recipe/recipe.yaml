@@ -1,5 +1,5 @@
 context:
-  version: 1.4.2
+  version: "1.6.4"
   python_min: "3.9"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/fastapi-mail/fastapi_mail-${{ version }}.tar.gz
-  sha256: 04bde1005c624f42dfc0a9c1e313fcc544499fdd6b3531e606c500d80ac2ffcb
+  sha256: be6b5ed3488804c3e877a723c4df673cec2d54574a1320e08ddeb36c36198605
 
 build:
   number: 0
