@@ -1,5 +1,5 @@
 context:
-  version: "1.6.4"
+  version: "1.6.5"
 
 package:
   name: fastapi-mail
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/fastapi-mail/fastapi_mail-${{ version }}.tar.gz
-  sha256: be6b5ed3488804c3e877a723c4df673cec2d54574a1320e08ddeb36c36198605
+  sha256: 458d8d185ae27d2e5936dd58c6fb8667d4a413fd6aae32fac2f32014794da5d6
 
 build:
   number: 0
